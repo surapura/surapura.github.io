@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
 #### Hi, I'm Dhaval 👋
+
 A pentester and web developer with a strong focus on cybersecurity and secure coding practices. My journey involves constantly learning and expanding my knowledge in cybersecurity while staying updated with the dynamic field of web development. This space is to deepen my understanding of cybersecurity, track my advancements in the field, and to engage with the community. Together, we can work towards creating a more secure digital landscape.
 
 #### Cybersecurity
