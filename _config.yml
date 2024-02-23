@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: Surapura # the main title
 
-tagline: "<span style='color: rgb(253, 98, 1);'>Pentester | Web Developer भारतीय</span>" # it will display as the sub-title
+tagline: "<span style=\"color: rgb(253, 98, 1);\">Pentester | Web Developer भारतीय</span>"
 
 description: >- # used by seo meta and the atom feed
   ethical hacker
