@@ -14,7 +14,7 @@ timezone: Asia/Calcutta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "<span style='color: rgb(255 99 2);'>Surapura</span>"
+title: Surapura # the main title
 
 tagline: Pentester | Web Developer # it will display as the sub-title
 
