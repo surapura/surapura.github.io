@@ -8,7 +8,7 @@ tags: [Psyber, Mental Health, Health]
 
 # Psyber care : Nurturing Mental Health for Technical Minds
 
-In the dynamic world of hacking and pentesting, mental agility is key. But as we dive deep into the complexities of cybersecurity, it's easy to overlook our mental well-being. The pressures of deadlines, the thrill of solving puzzles, and the constant need to stay ahead can take a toll. That's why it's crucial for technical professionals to prioritize mental health. Here are some tips to keep your mind sharp and healthy:
+In the dynamic world of hacking and pentesting, mental agility is key. But as we dive deep into the complexities of cybersecurity, sometimes we prioritize work to overlook our mental well-being. The pressures of deadlines, the thrill of solving machines, and the constant need to stay ahead can take a toll.
 
 In the high-stakes world of cyber security, maintaining mental health is not just a matter of relaxation—it's a strategic advantage. Here are some unconventional tips to keep your mind sharp and your spirits high:
 
@@ -21,8 +21,6 @@ In the high-stakes world of cyber security, maintaining mental health is not jus
 4. **Embrace the Art of Surrender:** As a hacker, you're used to being in control. However, there are aspects of life that are beyond your control. Practice acceptance and surrender to the uncertainty of life. This can reduce stress and increase resilience.
 
 5. **Foster Cognitive Diversity:** Surround yourself with people who think differently than you do. Engage in discussions with colleagues from diverse backgrounds or attend conferences outside your usual domain. This exposure to different perspectives can enhance your problem-solving skills and broaden your horizons.
-
-6. **Gamify Your Goals:** Turn your daily tasks into a game. Create challenges, set rewards for achieving milestones, and compete with yourself or others. This can make work more engaging and motivate you to stay focused and productive.
 
 7. **Cultivate Digital Minimalism:** In a world inundated with information, practice digital minimalism. Limit your exposure to social media, news, and other digital distractions. This can help reduce cognitive overload and improve focus.
 
