@@ -2,13 +2,13 @@
 title: "Alzheimer  Writeup HackMyVM"
 date: 2024-06-19 00:00:00 +0530
 categories: [Write Up,  HackMyVM] 
-tags: [Privilage Escalation, SSH, rsa key, symbolic link]
+tags: [Privilege Escalation, SSH, Binary Exploitation, Port Knocking]
 ---
 
 ![Alt Text](/img/alzheimer/1.png)
 
 
-<strong>The penetration test began with a nmap scan, which revealed that ports 22 (SSH) and 65530 were open. Further enumeration using Gobuster on port 65530 led to the discovery of the nt4share directory. SSH connection was established using a key found in nt4share. To escalate privileges, a symbolic link was created, granting access to the root account. The penetration test culminated in accessing the root account via SSH using the newly acquired key, enabling the retrieval of the flags.
+<strong>The penetration test commenced with a scan using nmap, which identified open and filtered ports. An anonymous FTP login revealed a .txt file with port knocking instructions. Knocking on ports 1000, 2000, and 3000 opened more ports, confirmed with another nmap scan. Checking port 80 for hints and using Gobuster led to new directories. Initially finding nothing, the .txt file was revisited, revealing an SSH password. Using this password, an SSH connection was successfully established. The final phase involved exploring binary vulnerabilities for privilege escalation, ultimately leading to the acquisition of both flags.</strong>
 
 
 <a href="https://hackmyvm.eu/machines/machine.php?vm=Alzheimer" target="_blank" rel="noopener noreferrer">vm link</a>
@@ -256,7 +256,7 @@ drwxr-xr-x 3 medusa medusa 4096 Oct  3  2020 .local
 medusa@alzheimer:~$ 
 ```
 <br>
-## Enumeration
+## Privilege Escalation
 <br>
 
 #### >> Exploring binary vulnerabilities for privilage escalation
